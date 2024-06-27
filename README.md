@@ -18,3 +18,4 @@ The workflow template file is found in `addons/github_to_itch/templates` You can
 
 ## Suggestions :+1:
 If you have any ideas or suggestions for the addon please create an issue or fork the project and make a PR!
+# fuzzy-octo-fortnight
